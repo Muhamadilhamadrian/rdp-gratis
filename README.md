@@ -11,3 +11,6 @@
 6. Masukin CRDnya
 7. Buat Pin
 8. Lalu buat tab chrome baru https://remotedesktop.google.com/access 
+ 
+
+## NOTES : JANGAN BUAT ACCOUNT GITHUB PAKE EMAIL DARI TEMP-EMAIL ATAU SELAINNYA, KARENA BISA MENYEBABKAN ACCOUNT GITHUB ANDA DI BANNED!!!
